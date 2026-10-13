@@ -18,15 +18,18 @@
 &nbsp;
 <!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/Tyreans?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor)](https://github.com/sponsors/Tyreans) -->
 
-# 👋 &nbsp;Hi there, I'm Juan Pablo
+# 👋 &nbsp;Hi there, I'm Juan Pablo (Tyreans)
 
 <!-- CHANGE TEXT & LINKS: Customize your bio, location, interests, and personal website below -->
-I'm a software developer passionate about building open-source projects, modern full-stack web applications, and exploring new technologies. 
+I'm a Computer Systems Engineering student passionate about making software accessible, intuitive, and easy to use for everyone. My focus is on building comfortable, seamless experiences for everyday users. Always eager to collaborate on projects where I can keep learning, explore new tools, and support the community.
 
 - 📍 Based in: **Torreón, Coahuila, México** 🇲🇽
 - 🌐 Website / Portfolio: [tyreans.dev](https://tyreans.dev) <!-- O actualízalo por https://tyreans.github.io -->
 - 💬 Connect with me on: [Twitter / X](https://x.com/Tyrean_s) or [LinkedIn](https://www.linkedin.com/in/juan-pablo-chavez-ramirez-205559371/)
-- ⚡ Fun fact: Enthusiast of developer tooling, automation, and clean UI design.
+- 🎓 **Background:** Computer Systems Engineering Student
+- 💡 **Interests:** User-friendly applications, practical utilities, and web development
+- 🤝 **Collaboration:** Open to learning-oriented projects and community ideas
+- ⚡ **Philosophy:** Software should feel comfortable and straightforward for anyone using it.
 
 &nbsp;
 
@@ -39,9 +42,9 @@ I'm a software developer passionate about building open-source projects, modern 
   <img align="right" width="160" src="assets/vgbuilder_logo.jpg" alt="VGBuilder Logo" />
 </a>
 
-Actualmente trabajo en **[VGBuilder](https://github.com/Metips-Solutions/VGBuilder)**.  
-Una plataforma de optimización de equipos para juegos gacha (PoC: Genshin Impact) que recomienda equipos a partir del inventario real del jugador en lugar de tier lists genéricas. Importa personajes vía Enka.Network y calcula la sinergia con un motor de afinidad por tags que corre en el cliente.  
-Construido con Bun, Elysia, Drizzle ORM, PostgreSQL, React y Docker.
+Currently, I'm working on **[VGBuilder](https://github.com/Metips-Solutions/VGBuilder)**. It's a gacha game team optimizer (starting with Genshin Impact) that recommends builds based on your real inventory, not tier lists. It uses a client-side tag-affinity engine and lets you import characters via Enka.Network.
+
+Built with Bun, Elysia, Drizzle ORM, PostgreSQL, React, and Docker.
 
 <!-- CHANGE LINK / IMAGE: Add a preview screenshot/GIF or comment out this line if not needed -->
 <!-- ![Project Preview](assets/project-preview.png) -->
@@ -70,25 +73,52 @@ Construido con Bun, Elysia, Drizzle ORM, PostgreSQL, React y Docker.
 <!-- Add, remove, or reorder icons. Using official Devicon SVG icons.  -->
 <!-- Devicon library: https://devicon.dev                              -->
 <!-- ================================================================= -->
+### 💻 &nbsp;Languages
+
 <p align="left">
-  <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="48" height="48" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
+</p>
 
-  <!-- Frameworks & Runtimes -->
+### ⚡ &nbsp;Frameworks & Runtimes
+
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="48" height="48" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" alt="Bun" width="48" height="48" /> &nbsp;
+  <img src="https://elysiajs.com/assets/elysia.svg" alt="Elysia" width="48" height="48" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/leaflet" alt="Leaflet" width="48" height="48" />
+</p>
 
-  <!-- Tools & Platforms -->
+### 🗄️ &nbsp;Databases
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="48" height="48" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" />
+</p>
+
+### 🛠️ &nbsp;Tools & Platforms
+
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="48" height="48" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rockylinux/rockylinux-original.svg" alt="Rocky Linux" width="48" height="48" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/microsoft/WSL/master/Images/Square44x44Logo.altform-unplated_targetsize-256.png" alt="WSL" width="48" height="48" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" /> &nbsp;
+  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" alt="Antigravity" width="48" height="48" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="QT Studio" width="48" height="48" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" alt="Apache NetBeans" width="48" height="48" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/qgis" alt="QGIS" width="48" height="48" />
 </p>
 
 &nbsp;
