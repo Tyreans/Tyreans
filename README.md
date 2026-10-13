@@ -146,8 +146,31 @@ Built with Bun, Elysia, Drizzle ORM, PostgreSQL, React, and Docker.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tyreans&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
+&nbsp;
+
+## 🎵 &nbsp;Daily Soundtrack
+
 <!-- ================================================================= -->
-<!-- 8. FOOTER / SOCIAL LINK                                           -->
+<!-- 8. DAILY SOUNDTRACK                                               -->
+<!-- ================================================================= -->
+<!-- MUSIC:START -->
+<p align="center">
+  <a href="https://music.youtube.com/watch?v=Iupq4GUgiQ8" target="_blank">
+    <img src="https://img.shields.io/badge/Listening_Today-When_The_Moon's_Reaching_Stars--_Yumi_Kawamura-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="When The Moon's Reaching Stars - Yumi Kawamura" />
+  </a>
+  <br /><br />
+  <a href="https://music.youtube.com/watch?v=Iupq4GUgiQ8" target="_blank">
+    <img src="assets/1013(1).gif" alt="Daily Soundtrack" width="380" />
+  </a>
+  <br />
+  <sub>🎧 <em>Click en el banner o título para escuchar en Youtube Music</em></sub>
+</p>
+<!-- MUSIC:END -->
+
+&nbsp;
+
+<!-- ================================================================= -->
+<!-- 9. FOOTER / SOCIAL LINK                                           -->
 <!-- ================================================================= -->
 <p align="center">
   <a href="https://github.com/Tyreans">Follow me on GitHub</a>
