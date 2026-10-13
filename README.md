@@ -134,6 +134,8 @@ Built with Bun, Elysia, Drizzle ORM, PostgreSQL, React, and Docker.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tyreans&repo=PokeCompilator&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Tyreans/PokeCompilator)
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tyreans&repo=MAPA-INTERACTIVO-TEC-LAGUNA&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Tyreans/MAPA-INTERACTIVO-TEC-LAGUNA)
+&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelAGDev&repo=VinculaTEC&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/MiguelAGDev/VinculaTEC)
 
 &nbsp;
 
