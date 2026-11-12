@@ -157,11 +157,11 @@ Built with Bun, Elysia, Drizzle ORM, PostgreSQL, React, and Docker.
 <!-- ================================================================= -->
 <!-- MUSIC:START -->
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MymBg-mFaos" target="_blank">
-    <img src="https://img.shields.io/badge/Listening_Today-Want_To_Be_Close--_Yumi_Kawamura-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Want To Be Close - Yumi Kawamura" />
+  <a href="https://music.youtube.com/watch?v=Iupq4GUgiQ8" target="_blank">
+    <img src="https://img.shields.io/badge/Listening_Today-When_The_Moon's_Reaching_Stars--_Yumi_Kawamura-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="When The Moon's Reaching Stars - Yumi Kawamura" />
   </a>
   <br /><br />
-  <a href="https://music.youtube.com/watch?v=MymBg-mFaos" target="_blank">
+  <a href="https://music.youtube.com/watch?v=Iupq4GUgiQ8" target="_blank">
     <img src="assets/1013(1).gif" alt="Daily Soundtrack" width="380" />
   </a>
   <br />
